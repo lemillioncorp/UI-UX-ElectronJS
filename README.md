@@ -1,5 +1,5 @@
 <p align="center">
-    <img class="img-rounded img-circle" width="100" heigth="100" src="https://avatars.githubusercontent.com/u/70895080?v=4" alt="https://avatars.githubusercontent.com/u/70895080?v=4"/>
+    <img class="img-rounded img-circle" width="130" heigth="130" src="https://avatars.githubusercontent.com/u/70895080?v=4" alt="https://avatars.githubusercontent.com/u/70895080?v=4"/>
    </p>
 
   <p align="center">
@@ -31,16 +31,20 @@
     
 </p>
 
+
+
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é António Kozan</h1></img>
-
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é António Kozan</h1></img>
+<br />
+- 👋 Hi, I’m @antoniotavareskozan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 </details>
 
 
-👋 Hi, I’m @antoniotavareskozan - lemillioncorp
-👀 I’m interested in ...
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+
